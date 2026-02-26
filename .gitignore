@@ -1,0 +1,22 @@
+# PHP
+/backend/vendor/
+/backend/runtime/
+/backend/.php-cs-fixer.cache
+/backend/.phpunit.result.cache
+
+# Frontend
+/frontend/node_modules/
+/frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
